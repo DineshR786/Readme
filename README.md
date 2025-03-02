@@ -1,6 +1,6 @@
 # E-Commerce Business Intelligence Dashboard
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](assets/dashboard-overview.png)
 
 ## 📊 Project Overview
 A comprehensive Power BI dashboard providing deep insights into e-commerce business performance through advanced data analytics and visualization.
