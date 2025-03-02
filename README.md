@@ -1,11 +1,26 @@
 # E-Commerce Business Intelligence Dashboard
 
-![Dashboard Preview](assets/dashboard-overview.png)
-
 ## 📊 Project Overview
 A comprehensive Power BI dashboard providing deep insights into e-commerce business performance through advanced data analytics and visualization.
 
 ## 🎯 Key Features
+## 🖥️ Dashboard Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](assets/dashboard-overview.png)
+*Key metrics showing Revenue ($24.9M), Orders (25.2K), Profit ($10.5M), and Return Rate (2.2%)*
+
+### Product Performance
+![Product Performance](assets/product-metrics.png)
+*Product metrics including monthly targets and profit trending*
+
+### Customer Analytics
+![Customer Analytics](assets/customer-analytics.png)
+*Customer segmentation with 17.4K unique customers and $1,431 revenue per customer*
+
+### Geographic Distribution
+![Geographic Analysis](assets/geographic-analysis.png)
+*Global order distribution across Europe, North America, and Pacific regions*
 
 ### 1. Customer Analytics Dashboard
 - Customer segmentation and demographics analysis
@@ -15,6 +30,7 @@ A comprehensive Power BI dashboard providing deep insights into e-commerce busin
 - Top customer performance tracking
 
 ### 2. Sales Performance Dashboard
+
 - Total Revenue: $24.9M
 - Total Orders: 25.2K
 - Total Profit: $10.5M
