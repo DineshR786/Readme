@@ -7,19 +7,19 @@ A comprehensive Power BI dashboard providing deep insights into e-commerce busin
 ## 🖥️ Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard/assets/dashboard-overview.png)
+![Overview Dashboard](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard\assets\dashboard-overview.png)
 *Key metrics showing Revenue ($24.9M), Orders (25.2K), Profit ($10.5M), and Return Rate (2.2%)*
 
 ### Product Performance
-![Product Performance](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard/assets/product-metrics.png)
+![Product Performance](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard\assets\product-metrics.png)
 *Product metrics including monthly targets and profit trending*
 
 ### Customer Analytics
-![Customer Analytics](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard/assets/customer-analytics.png)
+![Customer Analytics]("C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard\assets\customer-analytics.png")
 *Customer segmentation with 17.4K unique customers and $1,431 revenue per customer*
 
 ### Geographic Distribution
-![Geographic Analysis](C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard/assets/geographic-analysis.png)
+![Geographic Analysis]("C:\Users\gunav\CascadeProjects\E-Commerce-BI-Dashboard\assets\geographic-analysis.png")
 *Global order distribution across Europe, North America, and Pacific regions*
 
 ### 1. Customer Analytics Dashboard
